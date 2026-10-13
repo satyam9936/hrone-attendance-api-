@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+agent (1).png
+.postman/
+postman/
+~$*.docx
+scratch/
